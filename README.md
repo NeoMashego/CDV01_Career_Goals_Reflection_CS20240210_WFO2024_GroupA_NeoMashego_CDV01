@@ -37,9 +37,13 @@ By completing this reflection, you will gain a clearer understanding of your car
     - Baking cakes
 
 2. **Interests and Values**:
-    
-    - Describe your key interests related to your career.
-    - What values are important to you in a work environment?
+    Areas of interest:
+    - Making and creating gaming interfaces
+    - Learning new coding languages
+    - The large areas of growth in the IT industry
+
+    I value:
+    - Communication, Transprancy and Trust in a work environment
 
 ### Part 2: Career Exploration Insights
 
