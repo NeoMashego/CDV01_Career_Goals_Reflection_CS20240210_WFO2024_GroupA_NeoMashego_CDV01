@@ -71,7 +71,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Short-term Goals** (Next 1-2 years):
     
     - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+    In the short term:
+        - I hope to hone my skills and confidence in coding by entering a mentorship in a structured company (a business orientated company like an accounting and coding business)
+        - by doing this I allow myself the time to polish my abilities in coding, gain industry knowledge and grow  in a business that has structured interactive code that does not require a expobant amount of creative thinking but values my ability to put a given proposal together.
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
