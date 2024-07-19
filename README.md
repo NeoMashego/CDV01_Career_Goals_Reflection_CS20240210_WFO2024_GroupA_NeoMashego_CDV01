@@ -60,7 +60,11 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+        The industries I have chosen are those that are challenging, creative or structured and consistent industries.
+        Depending on my confidence in my coding at a given time of my life I would feel comfortable in either industry.
+        I do not want to be restricted just yet.
     - Identify any gaps or areas for further exploration.
+        I could look up other industries I am not privy of yet and explore where they go.
 
 ### Part 3: SMART Career Goals
 
