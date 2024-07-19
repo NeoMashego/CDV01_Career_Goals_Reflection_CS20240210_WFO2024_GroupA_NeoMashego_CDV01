@@ -16,10 +16,10 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Neo Mashego
+- **Date: 18 July 2024
+- **Current Role/Position: Student
+- **Field of Interest: Coding and cooking
 
 ### Part 1: Self-Assessment Reflection
 
