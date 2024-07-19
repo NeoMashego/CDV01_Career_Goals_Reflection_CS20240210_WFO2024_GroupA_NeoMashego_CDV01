@@ -48,9 +48,15 @@ By completing this reflection, you will gain a clearer understanding of your car
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
-    
-    - List the industries or roles you have researched.
-    - Note any particular areas that piqued your interest.
+    Industries researched:
+    - Companies combining:
+        - Accounting and coding for businesses
+    And:
+    - Teaching careers for coding languages
+    - Gaming companies
+        The gaming community has really piqued my interest. The area seems vast and creative to be in.
+        And I hope to one day build my own game.
+
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
