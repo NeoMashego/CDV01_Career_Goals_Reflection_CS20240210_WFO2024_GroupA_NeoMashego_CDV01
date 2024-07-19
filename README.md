@@ -58,7 +58,6 @@ By completing this reflection, you will gain a clearer understanding of your car
         And I hope to one day build my own game.
 
 2. **Alignment with Personal Profile**:
-    
     - Reflect on how these industries/roles align with your skills, interests, and values.
         The industries I have chosen are those that are challenging, creative or structured and consistent industries.
         Depending on my confidence in my coding at a given time of my life I would feel comfortable in either industry.
@@ -74,10 +73,14 @@ By completing this reflection, you will gain a clearer understanding of your car
     In the short term:
         - I hope to hone my skills and confidence in coding by entering a mentorship in a structured company (a business orientated company like an accounting and coding business)
         - by doing this I allow myself the time to polish my abilities in coding, gain industry knowledge and grow  in a business that has structured interactive code that does not require a expobant amount of creative thinking but values my ability to put a given proposal together.
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
+        To have honed my skills enough to get into the gaming industry and hopefully work remotely, allowing me to work cross-borders.
+        To build my own computer set up.
     - Describe how these align with your interests and skills.
+        I want to be really good at coding and to gain liberation by not having to live in a fixed area
 
 ### Part 4: Action Plan
 
