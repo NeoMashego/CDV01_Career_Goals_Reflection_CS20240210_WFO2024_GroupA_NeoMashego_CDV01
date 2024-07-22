@@ -118,6 +118,10 @@ By completing this reflection, you will gain a clearer understanding of your car
     
     - Highlight any opportunities you can leverage for career growth.
     - Include networking, mentorship, or educational opportunities.
+        By getting a mentor in the workplace for guidance for each industry I get into.
+        By making friends or networking with other collegues in the same industry for a better understanding of any skills they have that I am missing.
+        I could also get a degree in IT or/and Computer Science. I could also get short course work done and the certification to prove it.
+        Attend workshops and conferences in my fields of interest.
 
 ### Submission
 
