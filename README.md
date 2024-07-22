@@ -107,7 +107,13 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Anticipated Challenges**:
     
     - Identify potential obstacles or challenges in reaching your goals.
+        1. Confidence in myself and my ability to code
+        2. Breaking into the gaming industry
+        3. Getting relevant and usable experience in UI/UX career.
     - Consider strategies to overcome these challenges.
+        1. practice and validation from my superiors helps
+        2. networking and applying to openings in the gaming industry
+        3. this one I cannot quantify yet so I am not sure but maybe in an SEO position
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
