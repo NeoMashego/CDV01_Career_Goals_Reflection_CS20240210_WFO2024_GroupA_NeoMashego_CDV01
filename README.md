@@ -77,8 +77,9 @@ By completing this reflection, you will gain a clearer understanding of your car
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-        To have honed my skills enough to get into the gaming industry and hopefully work remotely, allowing me to work cross-borders.
+        To have honed my skills enough to get into the gaming industry and hopefully work remotely, allowing me to work across-borders.
         To build my own computer set up.
+        Become a lecturer in UI and UX.
     - Describe how these align with your interests and skills.
         I want to be really good at coding and to gain liberation by not having to live in a fixed area
 
@@ -87,11 +88,19 @@ By completing this reflection, you will gain a clearer understanding of your car
 1. **Steps to Achieve Short-term Goals**:
     
     - Detail specific actions or steps needed to achieve each short-term goal.
+        1. Practice the coding languages I already have by building simple to complex workspaces.
+        2. Ask questions, Google more and delve into communities that could be helpful in my growth and confidence in my code.
     - Include any resources or support required.
+        - W3School, FreeCodeCamp, Disord servers, Coursea
 2. **Preparation for Long-term Goals**:
     
     - Describe the preparations or groundwork necessary for your long-term aspirations.
+        From coding intensely and actively in the first few years, getting into the gaming industry will allow me to be creative and proactive in my code.
+        Saving and researching the right hardwares needed to make my own desktop set up.
+        Maybe even build a server if it is possible.
+        Gaining work experience and certification in UI/UX to become a lecturer in the subject
     - Consider additional skills, experiences, or qualifications needed.
+        Years of experience will hone my ability and understanding of UI/UX
 
 ### Part 5: Reflection on Challenges and Opportunities
 
